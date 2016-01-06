@@ -40,26 +40,27 @@ The Page tab  allows the administrator to add, modify, and delete related inform
 
 ![](../assets/image004.png)
 
-(1) Click "Add page" button, fill out the required information, you can set the page is displayed in the column in the module list page menu, at the same time You can set the pop-up mode and displays the status of the page, and the most distinctive is the template selection, the default page template for the default, which is the template folder about_page.html, if a page when special effects to customize page, on You can copy the template, the name changed to the prefix must about_page.html and connector as "_" xx.html, for example: about_page_classic.html can use the new release edit page template (* after the new template for an update module , clear the cache for proper use)
+(1) Click "Add page" button to add a new page. 
 
 ![](../assets/image003.png)
 
+Fill out the required information. 
 
-(2) After you have finished adding information, click on the "Submit" button will pop up a dialog box shown in Figure V1.0 admin1.3.
+You can set how the page is being displayed, if it is a stand-alone page, or if it is  shown as sub-link to another page. 
 
-![](../assets/image004.png)
+You can set the pop-up mode and the status of the page (draft or published).
 
-At this point you have successfully finished adding a page. You will see your page added in reference to FIG V1.0 admin1.1. After you have added you will be able to edit and delete pages.
+(2) After you have finished adding information, click on the "Submit" button to save it. At this point you have successfully finished adding a page. You will see your page added in reference.  After you have added you will be able to edit and delete pages.
 
 ###2.2.2 Edit Page
 
-(1) When we click the "Company," the editor, it will appear as shown in Figure V1.0 admin1.4.
-
 ![](../assets/image011.png)
 
-Figure V1.0 admin1.4
+(1) When we click the "Edit" link in the editor, XOOPS will open the form for you so you can edit the page:
 
-(2) At this point in FIG V1.0 admin1.4 where we can make the appropriate modified. After modifying click "Submit" button on it.
+![](../assets/image003.png)
+
+(2) At this point you can make the appropriate changes. After modifying click "Submit" button to save your changes.
 
 ###2.2.3 Delete page
 
