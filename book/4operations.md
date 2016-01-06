@@ -1,30 +1,13 @@
 # 4.0 Operating Instructions
 
-2.1 Home 2
 
-2.2 Page 4
 
-2.2.1 Add Page 4
 
-2.2.2 Edit Page 6
 
-2.2.3 Delete Page 8
 
-2.3 External Links 8
+##4.1 Admin Home
 
-2.3.1 Add External links 8
-
-2.3.2 External links 9
-
-2.3.2 remove external links 9
-
-3 Version Features: 10
-
-#2 Use (Management section):
-
-##2.1 Home
-
-When we visit the home page of the module management section, you can add, modify page information, and you can specify the sort function in the settings page and home page. 
+When we visit the home page of the module management section, you can add, modify "About Us" pages, and you can specify the sort function in the settings page and home page. 
 
 ![](../assets/image001.png)
 Reference Photos V1.0 admin1.1
@@ -41,24 +24,21 @@ The meaning of individual icons is described below:
 |![](../assets/tick.png) |Denotes a display interface menu in the foreground|
 
 
-This figure is some information I V1.0 admin1.1 added. 
-
-Of course, for how to add the following we will show you in ,, For added information, the interface will be displayed in the foreground as a reference picture V1.0 page1 follows:
+Once you complete your About Us pages, the user might see something like this, as it is done in the default setting:
 
 ![](../assets/image002.png)
 
-V1.0 page1
-In front-end (V1.0 page1 this figure) you will see a menu with three options, and the right content (Company) and the menu options and no contact is displayed on the home page, which is a big advantage of this module, since you are in the background in the Company's "options menu is displayed in the" in the election of the "No", of course, if you want it displayed in the menu, click on "Yes" to everything is OK. 
+In front-end the user will see a menu with three options, and the right content (Company) and the menu options and no contact is displayed on the home page, which is a big advantage of this module, since you are in the background in the Company's "options menu is displayed in the" in the election of the "No", of course, if you want it displayed in the menu, click on "Yes" to everything is OK. 
 
-For the menu "XOOPS" when clicked, it will get you to the  corresponding site, which belongs to the external links page.
+If you click on the "Key Features", you will see more information. It's also possible to add external links, which will lead you to another Website.
 
-##2.2 Page
+##4.2 Page
 
 The Page tab  allows the administrator to add, modify, and delete related information pages.
 
-###2.2.1 Add Page
+###4.2.1 Add Page
 
-(1) Click Home "Add page" button, as shown in V1.0 admin1.2, where the title and content is required, you can set the page is displayed in the column in the module list page menu, at the same time You can set the pop-up mode and displays the status of the page, and the most distinctive is the template selection, the default page template for the default, which is the template folder about_page.html, if a page when special effects to customize page, on You can copy the template, the name changed to the prefix must about_page.html and connector as "_" xx.html, for example: about_page_classic.html can use the new release edit page template (* after the new template for an update module , clear the cache for proper use)
+(1) Click Home "Add page" button, fill out the required information, you can set the page is displayed in the column in the module list page menu, at the same time You can set the pop-up mode and displays the status of the page, and the most distinctive is the template selection, the default page template for the default, which is the template folder about_page.html, if a page when special effects to customize page, on You can copy the template, the name changed to the prefix must about_page.html and connector as "_" xx.html, for example: about_page_classic.html can use the new release edit page template (* after the new template for an update module , clear the cache for proper use)
 
 ![](../assets/image003.png)
 
