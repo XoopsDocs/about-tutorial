@@ -73,7 +73,7 @@ At this point you have successfully finished adding a page. You will see your pa
 
 (1) When we click the "Company," the editor, it will appear as shown in Figure V1.0 admin1.4.
 
-![](../assets/image005.png)
+![](../assets/image004.png)
 
 Figure V1.0 admin1.4
 
@@ -100,7 +100,7 @@ This page allows the administrator to add, modify related information of the ext
 ###2.3.1 Add External links
 
 (1) Click Home "Add external links" button to enter, as shown in FIG V1.0 admin 1.7. Since the external link address with an asterisk are required so the options, and can set the link pop-way [whether to open in new window] and displays the status of [whether to publish].
-![](../assets/img_50.jpg)
+![](../assets/image008.png)
 V1.0 admin1.7
 
 (2) Click the "Submit" button, you will see external links page you added in reference to FIG V1.0 admin1.1 years.
