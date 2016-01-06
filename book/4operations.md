@@ -55,7 +55,7 @@ At this point you have successfully finished adding a page. You will see your pa
 
 (1) When we click the "Company," the editor, it will appear as shown in Figure V1.0 admin1.4.
 
-![](../assets/image004.png)
+![](../assets/image011.png)
 
 Figure V1.0 admin1.4
 
@@ -69,11 +69,8 @@ Click the page that corresponds to the "Delete" → (Figure V1.0 admin1.5) promp
 
 ![](../assets/image006.png)
 
-Indicating that the deletion was successful. Of course, if you do not want to delete, click on (Figure V1.0 admin1.5) "Cancel" button on the line.
+Once you click on "Submit" the page will be permanently deleted. Of course, if you do not want to delete, click on the "Cancel" button.
 
-![](../assets/img_49.jpg)
-
-Figure V1.0 admin1.5 Figure V1.0 admin1.6
 
 ##2.3 External links
 
@@ -81,37 +78,15 @@ This page allows the administrator to add, modify related information of the ext
 
 ###2.3.1 Add External links
 
-(1) Click Home "Add external links" button to enter, as shown in FIG V1.0 admin 1.7. Since the external link address with an asterisk are required so the options, and can set the link pop-way [whether to open in new window] and displays the status of [whether to publish].
+![](../assets/image007.png)
+
+(1) Click the "Add external links" button as shown above, and you'll get a form to fill out. Since the external link address is marked with a red asterisk, this field is required. You can also set the option if you want the link to open in a new window or the current one, and if this link is published, or if it is still off-line. 
 ![](../assets/image008.png)
-V1.0 admin1.7
+
 
 (2) Click the "Submit" button, you will see external links page you added in reference to FIG V1.0 admin1.1 years.
 
-###2.3.2 External links
+###2.3.2 Edit & Delete External links
 
-(1) When we click on the "XOOPS Chinese station" editor, will appear as shown in Figure V1.0 admin1.8.
+The process is the same as for the regular pages, as shown above.
 
-![](../assets/img_51.jpg)
-V1.0 admin1.8
-
-(2) At this point you can make the appropriate changes, and click the "submit" button, and then automatically jump to V1.0 admin1.1 shown in FIG.
-
-###2.3.2 remove external links
-
-Click the external link corresponding "Delete" → (Figure V1.0 admin1.9) prompt, and then pop up as shown in 
-
-![](../assets/img_64.jpg)
-
-Figure V1.0 admin2.0,
-
-Indicating that the deletion was successful. Of course, if you do not want to delete, click on (Figure V1.0 admin1.9) "Cancel" button on the line.
-
-![](../assets/img_49.jpg)
-
-Figure V1.0 admin1.9 Figure V1.0 admin2.0
-
-##3 Version Features:
-
-"About 1.0" is a very simple module. Its unique feature is based on the advantages of the simple modules and while achieving the template customization features for the rapid development of small and medium sites added an edge.
-
-Users can also select a page as the default home page to access the module. While it can not be displayed in the navigation menu, it is in the actual development application process, so that the very functional.
