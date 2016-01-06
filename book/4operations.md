@@ -38,7 +38,7 @@ The Page tab  allows the administrator to add, modify, and delete related inform
 
 ###4.2.1 Add Page
 
-(1) Click Home "Add page" button, fill out the required information, you can set the page is displayed in the column in the module list page menu, at the same time You can set the pop-up mode and displays the status of the page, and the most distinctive is the template selection, the default page template for the default, which is the template folder about_page.html, if a page when special effects to customize page, on You can copy the template, the name changed to the prefix must about_page.html and connector as "_" xx.html, for example: about_page_classic.html can use the new release edit page template (* after the new template for an update module , clear the cache for proper use)
+(1) Click "Add page" button, fill out the required information, you can set the page is displayed in the column in the module list page menu, at the same time You can set the pop-up mode and displays the status of the page, and the most distinctive is the template selection, the default page template for the default, which is the template folder about_page.html, if a page when special effects to customize page, on You can copy the template, the name changed to the prefix must about_page.html and connector as "_" xx.html, for example: about_page_classic.html can use the new release edit page template (* after the new template for an update module , clear the cache for proper use)
 
 ![](../assets/image003.png)
 
