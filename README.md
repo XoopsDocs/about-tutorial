@@ -10,7 +10,7 @@
 
 ### User Manual
 
-© 2016 XOOPS Project [\(www.xoops.org](http://www.xoops.org)\)
+© 2018 XOOPS Project [\(www.xoops.org](http://www.xoops.org)\)
 
 ### Module Purpose
 
@@ -18,7 +18,7 @@ This module is for .....
 
  _Figure 1: Main view of the About us Module \(Admin side\)_
 
-![image001.png](.gitbook/assets/image001.png)
+![](.gitbook/assets/image001.png)
 
 ### Download/Fork the Module ![](https://xoops.org/images/forkit.png)
 
