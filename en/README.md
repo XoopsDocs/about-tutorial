@@ -2,13 +2,13 @@
 ![](assets/logoXoops.jpg)
 
 # About Us
-#### for XOOPS 2.5.7
+#### for XOOPS 2.5.10
       
 ![](assets/logoModule.png)
             
 ## User Manual
 
-© 2018 XOOPS Project [(www.xoops.org](http://www.xoops.org))    
+© 2020 XOOPS Project [(www.xoops.org](http://www.xoops.org))    
 
 ## Module Purpose 
 
